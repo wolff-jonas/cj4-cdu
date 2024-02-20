@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs />
+  <inputs>
+    <config guid="b1281d6f-1250-4d05-b94c-1206e0761c04">
+      <active>true</active>
+      <description>0</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="0" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_0)" presetId="470fbbe7-8d18-417a-a943-15c0b0e08561" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e4a43c03-0578-4eb1-b172-e70eb3ee6823">
+      <active>true</active>
+      <description>1</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_1)" presetId="1c03a90b-3e72-42f7-83c8-edffc8ce0bc0" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="2d7fe406-5eec-474b-8979-415f11090d24">
+      <active>true</active>
+      <description>2</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_2)" presetId="24a74a51-2c58-4730-a1d6-0c75248f01f1" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4898d05e-0f63-418a-aa8e-c077dff4c09c">
+      <active>true</active>
+      <description>3</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="3" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_3)" presetId="275862c3-f725-4965-8855-905aef51a584" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="449fce4e-2c97-4f39-ab3b-5212dbe0d1e2">
+      <active>true</active>
+      <description>4</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="4" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_4)" presetId="d4b76508-5f9a-404f-90f7-9a75eddce429" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a76c70fc-39e5-423d-876f-9af3f03d0be6">
+      <active>true</active>
+      <description>5</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="5" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_5)" presetId="f487892e-0cb4-419a-b2d9-223e3c4fdff9" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="017d3146-2d7f-4395-b970-6d9cba065126">
+      <active>true</active>
+      <description>6</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="6" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_6)" presetId="be0e85dd-74ab-40a0-8607-76535a708369" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="5723d1de-1e7c-4c12-9181-308cc9c89f2f">
+      <active>true</active>
+      <description>7</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="7" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_7)" presetId="9cdb0be3-d6f7-41f2-8ebd-816eed0ee0f5" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4725ee2c-efa9-44fa-b611-2304e6357adc">
+      <active>true</active>
+      <description>8</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="8" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_8)" presetId="27b3abff-442d-40bc-9fee-67ea1954b817" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="0abb9700-364c-42cd-bb28-63fe89b29be1">
+      <active>true</active>
+      <description>9</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="9" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_9)" presetId="eed4eda1-e10b-4006-9219-cef20fa81c03" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="b8bf00fb-b989-4704-82df-3351f67c4a32">
+      <active>true</active>
+      <description>A</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="A" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_A)" presetId="ab9d37e9-d503-4691-95af-e310fed445cb" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a4eb4bc4-376c-4c9f-b46e-72be97ab3f42">
+      <active>true</active>
+      <description>B</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="B" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_B)" presetId="38df1728-f12d-495c-b7db-442aca5905e3" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="547706b4-5e1a-4889-aa55-700ae6e43a3b">
+      <active>true</active>
+      <description>C</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="C" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_C)" presetId="313efa97-e60c-4e9f-897e-9614bef3adc3" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="129d81db-f05a-4f83-a985-cdecd9a5a559">
+      <active>true</active>
+      <description>D</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="D" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_D)" presetId="1b4ec3af-eeb1-4e21-a583-fd489391c931" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="ef89dd63-5fef-4991-a770-d6a80969f360">
+      <active>true</active>
+      <description>E</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="E" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_E)" presetId="c48294d6-a1a7-409b-87b9-04deaeb9a53c" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="8abd93ee-c070-4df7-beba-4bf77f748864">
+      <active>true</active>
+      <description>F</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="F" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_F)" presetId="d26bd201-d659-4e98-814c-60a07c3e20d7" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="16c4a98f-0640-4460-8c0d-65911eb825ec">
+      <active>true</active>
+      <description>G</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="G" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_G)" presetId="428e0188-1f33-4ee3-84c2-8c0e926afb80" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="9015d93b-d903-4386-bb99-3ac3ed375592">
+      <active>true</active>
+      <description>H</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="H" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_H)" presetId="062d9ca4-bfa8-4d39-9d06-a47c68ca824e" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="b13d2a90-39c4-48d3-8a77-c559375994f8">
+      <active>true</active>
+      <description>I</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="I" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_I)" presetId="6810d488-3e04-44e9-9dfd-724f2258756c" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="bfbc192b-c542-48b0-a740-af12f697e634">
+      <active>true</active>
+      <description>J</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="J" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_J)" presetId="26d2ed19-4e44-426d-aad7-9c0cfa372a47" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="82ce1d48-878a-4bc3-9812-4c02d4c9bfc5">
+      <active>true</active>
+      <description>K</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="K" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_K)" presetId="64d44cd4-51b7-4d2b-9e1a-a0cabc570337" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="36d6f964-c315-4d21-9ff2-711fadd024db">
+      <active>true</active>
+      <description>L</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="L" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L)" presetId="9dd5867a-9777-494b-bc70-4061ab66f37a" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="815a0e09-aeb9-4c5d-8911-4022e24e20ef">
+      <active>true</active>
+      <description>M</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="M" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_M)" presetId="c1549db6-3bb7-41bb-a973-45b964203ce8" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="fa0544e7-72d5-48c9-ad0b-1630d0846643">
+      <active>true</active>
+      <description>N</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="N" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_N)" presetId="da28161e-ba62-470e-bed6-6fc67b2a03ed" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="92942c43-cd39-4263-8929-dd0a3294278f">
+      <active>true</active>
+      <description>O</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="O" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_O)" presetId="3e2ec197-fb87-40a8-9700-427db239e146" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="3c962a85-4a97-4512-8e25-ec72dc8dd951">
+      <active>true</active>
+      <description>P</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="P" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_P)" presetId="1ac39f85-59c0-4b00-b658-1e9bf428ec08" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="34dcb48d-1b30-47dd-8167-59c2ad9e9ab9">
+      <active>true</active>
+      <description>Q</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="Q" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_Q)" presetId="519f1494-707b-4632-881c-d170bb9cf318" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="48ba1254-062d-4905-86b7-0a7fb02b316d">
+      <active>true</active>
+      <description>R</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="R" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R)" presetId="e4cd699e-189f-4cc0-a2af-74dd66d1ba55" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="b7bb3b70-b77c-47f7-9a22-07fd1c366186">
+      <active>true</active>
+      <description>S</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="S" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_S)" presetId="c4cee45b-5b7c-4080-a861-2db4730ccbc7" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7a35d717-78a8-4e81-91f8-203eebb5ebd9">
+      <active>true</active>
+      <description>T</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="T" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_T)" presetId="ceb6fbcd-ea60-4084-bd56-dc0fefe65a6e" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="bff3896a-c997-48cb-8881-aea3dbf41524">
+      <active>true</active>
+      <description>U</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="U" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_U)" presetId="1c93e6ef-8ee8-4a5d-b6c1-309ec3dd8657" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="33703c70-01ed-46ca-ad83-0c019dc89ebe">
+      <active>true</active>
+      <description>V</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="V" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_V)" presetId="910723a5-4fbe-4f2f-9338-a03933c26540" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="d6585622-197e-457a-92a9-da694bf034b3">
+      <active>true</active>
+      <description>W</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="W" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_W)" presetId="972c39f6-c37b-4256-b1d6-73e5c52e4fdd" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="99db8de0-76bb-49ab-bcc7-71a7cd5f6b46">
+      <active>true</active>
+      <description>X</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="X" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_X)" presetId="8b255705-22c4-42a3-a638-c6676688be9b" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="73b196c7-3f1e-484c-a495-d47629b3d9cb">
+      <active>true</active>
+      <description>Y</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="Y" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_Y)" presetId="9d7cfbe3-9ebb-4e23-a2f4-14896a46815c" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c091db6d-c3fe-4325-a5a0-67dede8a8181">
+      <active>true</active>
+      <description>Z</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="Z" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_Z)" presetId="3f84853e-c0ee-4024-b668-6589e22e7034" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e454d76a-090b-4117-93f0-2054d3d568aa">
+      <active>true</active>
+      <description>MSG</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="MSG" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_MSG)" presetId="cdd22bc8-485f-4fa5-a51a-82656e297970" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="dc41d025-3900-4364-8aa4-b77eedf7aee4">
+      <active>true</active>
+      <description>DIR</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="DIR" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_DIR)" presetId="e1f0cb38-8d8b-4561-a15a-31252eef9c2f" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="75d3fd4c-aba1-4c50-8cb8-9f297015c0c6">
+      <active>true</active>
+      <description>IDX</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="IDX" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_IDX)" presetId="304b87c2-f8b5-4f18-b41c-6dba359c9ca1" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="f2d65ed9-44c5-4f04-880f-af54a3986329">
+      <active>true</active>
+      <description>TUN</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="TUN" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_TUN)" presetId="8eb5b372-c76e-43d7-83a5-31bfb1715205" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="6c1a8c39-3ba5-4b34-b28d-94b8e6200694">
+      <active>true</active>
+      <description>FPLN</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="FPLN" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_FPLN)" presetId="1f3e8d26-55a5-4432-909d-153c7cfba207" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7ec7ae82-1040-4779-8994-b900bc9cbc8d">
+      <active>true</active>
+      <description>LEGS</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LEGS" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_LEGS)" presetId="e88757b1-7443-48aa-92be-51393a0a9af7" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="5e6b0da7-3bda-47fc-983d-ff985ab29c1f">
+      <active>true</active>
+      <description>DEPARR</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="DEPARR" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_DEPARR)" presetId="8be30c1f-e9bb-44bf-be65-90f4939020f6" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="ee3782cd-ecbc-46ec-99f4-d58c691d5870">
+      <active>true</active>
+      <description>PERF</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="PERF" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_PERF)" presetId="99dbdac5-7424-412d-912b-342d2dcb741e" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="045cef8b-c347-47b1-99cf-a1a19f41d723">
+      <active>true</active>
+      <description>DSPLMENU</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="DSPLMENU" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_DSPL_MENU)" presetId="4c5eecc7-792c-41f1-8800-611bd703280c" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="f4b3ec30-ec71-453f-865a-87a65280277c">
+      <active>true</active>
+      <description>MFDADV</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="MFDADV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_MFD_ADV)" presetId="4e7f3f1d-36f2-4c66-9913-5f633bda04b6" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="1ebc5c52-d269-429e-94b0-18453446956c">
+      <active>true</active>
+      <description>MFDDATA</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="MFDDATA" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_MFD_DATA)" presetId="d528767c-9c3a-489b-8143-87bd66912185" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4701848a-cd0c-4931-a485-f9439571a3c2">
+      <active>true</active>
+      <description>PREV</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="PREV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_PREVPAGE)" presetId="3da66bf8-ffeb-45f1-aac6-163c02ced408" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="fa15775b-0830-48f6-aab9-86047e71e886">
+      <active>true</active>
+      <description>NEXT</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="NEXT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_NEXTPAGE)" presetId="3151256b-ac62-4e60-a87f-6db3ba947d79" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="57e7b21c-52c2-497c-b840-d0c492c8dc1b">
+      <active>true</active>
+      <description>EXEC</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="EXEC" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_EXEC)" presetId="a296457b-34f7-4cd1-b159-c2893318258f" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="8cba6518-7166-45d9-8dcc-5304b8abace1">
+      <active>true</active>
+      <description>CLRDEL</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="CLRDEL" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_CLR)" presetId="805f54b0-1ac9-49f4-aa55-d845f1722c4b" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c68de155-6f94-4195-abe7-941ccd82eeda">
+      <active>true</active>
+      <description>SP</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="SP" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_SP)" presetId="569cd7f5-377a-4ab7-9b15-14c9995aee8a" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="5ff3365f-12e6-4915-a58b-7ac40733eba8">
+      <active>true</active>
+      <description>SLASH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="SLASH" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_DIV)" presetId="7167ae2d-c10d-461b-bffa-c2b3f671a49b" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a89d345d-6251-48ad-8c92-87939d3b9dad">
+      <active>true</active>
+      <description>DOT</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="DOT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_DOT)" presetId="b47e1303-3786-4eec-9e25-cee8b558bc6b" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="06991285-73fd-48b2-a069-9a1d9ae3d39c">
+      <active>true</active>
+      <description>PLUSMINUS</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="PLUSMINUS" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_PLUSMINUS)" presetId="fc29f0fd-b749-4c9e-9324-7c7bfe46b3eb" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="443451a5-d066-463b-8abd-880bd3c8b32a">
+      <active>true</active>
+      <description>L1</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L1)" presetId="e08482b2-38ff-43f7-9cfc-854b57630e28" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="762173a9-1ce4-4663-aca0-aa7b8c5d7137">
+      <active>true</active>
+      <description>L2</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L2)" presetId="ac5fd613-0094-4b9e-abbb-637082d131fe" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e2bea34b-debf-4ae1-9944-1eafff889815">
+      <active>true</active>
+      <description>L3</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L3" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L3)" presetId="6e76b940-36fc-47e7-b6e4-46f400a850ef" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4b4c5ac2-cb9e-468a-8568-26b2544f68c4">
+      <active>true</active>
+      <description>L4</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L4" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L4)" presetId="10c71e9f-0f5c-4bca-a37f-c63dcff26005" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="ff4896aa-5da0-49f8-8ec6-40cfbeb77698">
+      <active>true</active>
+      <description>L5</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L5" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L5)" presetId="cba3366f-0fad-4d6f-9e4e-efe1bcfff6f1" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4ade0938-283f-4992-8dfa-e73e2b959870">
+      <active>true</active>
+      <description>L6</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_L6" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_L6)" presetId="238e929e-4f59-43bf-a363-c00afb1ebf35" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="0aa73b34-7832-4906-9b20-cf5cd1dd9cbf">
+      <active>true</active>
+      <description>R1</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R1)" presetId="d77a9ffc-ea20-432b-904b-9aa722d17c25" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a14f81db-7226-4084-beed-4719bf6bc80b">
+      <active>true</active>
+      <description>R2</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R2)" presetId="6f4fdeaa-fe39-4850-9e2b-05d7f2eda358" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="26c92d91-4195-4cca-9384-5f23f4fc6758">
+      <active>true</active>
+      <description>R3</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R3" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R3)" presetId="1a060eaa-5a56-4101-ac19-24e2495fdb24" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a4b94fdc-fa37-4b27-9825-1a4bf9b7c792">
+      <active>true</active>
+      <description>R4</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R4" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R4)" presetId="80fe1c16-57fd-4e4a-ab50-b35f7d6c82cb" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="986f809d-da05-48dd-b4d6-2219bf6c062b">
+      <active>true</active>
+      <description>R5</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R5" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R5)" presetId="5b7dee24-327f-4ab3-ad32-cadde62853dc" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e609c0bf-13d4-4e81-960a-f95555447195">
+      <active>true</active>
+      <description>R6</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-51d-708" name="LSK_R6" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:CJ4_FMC_1_BTN_R6)" presetId="e59a8c30-bd2b-4fa9-8273-6319e445cb13" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </inputs>
+</MobiflightConnector>
