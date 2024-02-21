@@ -3,6 +3,8 @@
 This is a physical button box in the rough shape and functionality of the CDU of the Citation CJ4.
 It is primarily intended for use with Microsoft Flight Simulator 2020, but could be adapted to other simulators (or planes) as well.
 
+For more indepth information head over to: https://jwolff.it/cj4-cdu/
+
 ## Hardware 
 
 It's constructed with a 3D printed front plate, 3D printed keys, a custom PCB and an Arduino Mega.
